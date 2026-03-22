@@ -1,6 +1,6 @@
 # Hi, I'm Tung 👋
 
-💻 Aspiring Blockchain Developer  
+💻 Web3 Developer (Solidity)
 🌏 Vietnam  
 
 ---
