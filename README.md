@@ -18,7 +18,7 @@
 
 - Build real Web3 projects
 - Contribute to open source
-- Join a crypto team
+
 
 ---
 
